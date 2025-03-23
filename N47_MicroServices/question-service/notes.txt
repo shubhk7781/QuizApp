@@ -1,0 +1,6 @@
+two more dependecies are added : 
+1. OpenFeing 
+	: simplifies the development of HTTP clients for RESTful microservices
+2. Eureka Discovery Client 
+	: Eureka is a service registry, to enable service discovery, allowing applications to dynamically find and communicate with other services
+
